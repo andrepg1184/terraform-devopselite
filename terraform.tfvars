@@ -1,5 +1,5 @@
 ssh_key_name = "devopselite"
 
-do_token = "dop_v1_0dcdc819b750fe7f8beeb73e9116b9638c28899c54c08fe2aba379a5368bb8e4"
+do_token = "dop_v1_49e74ddb48e8a2b38207f7f9cdc81c62c83b8e1fd4f9a09846ec0a6c6f7d149d"
 
 region = "nyc3"
